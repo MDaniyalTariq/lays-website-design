@@ -18,4 +18,4 @@ This repository contains the source code for a personal website dedicated to sho
 
 ## Demo
 
-You can view a demo of this website [here](https://your-demo-url.com).
+You can view a demo of this website [here](https://mdaniyaltariq.github.io/lays-website-design/).
